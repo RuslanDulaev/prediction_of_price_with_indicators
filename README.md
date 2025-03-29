@@ -1,0 +1,1 @@
+# prediction_of_price_with_indicators
